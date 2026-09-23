@@ -31,3 +31,10 @@
 
 <!-- Define what should and shouldn't be documented -->
 <!-- Example: Don't document internal admin features -->
+
+## Communicate
+
+comms_bundle: harness-comms
+comms_guild: 1468303388591783999
+comms_channel: 1552406185750175796
+comms_owners: 1385074958656606302, 290734274825551872
